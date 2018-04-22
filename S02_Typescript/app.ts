@@ -6,4 +6,4 @@ var wolverine = {
     nombre: "Logan"
 }
 
-saludar(wolverine.nombre);
+saludar(wolverine.nombre.toUpperCase());
