@@ -1,4 +1,6 @@
-# Instalación de dependencias
+# Preparación del entorno de desarrollo
+
+## Instalación de dependencias
 
 **Instalar Typescript:**
 
@@ -18,4 +20,16 @@ npm install -g @angular/cli@latest
 
 ```bash
 npm install -g ionic cordova
+```
+
+## Plugins de atom
+
+```bash
+angular-2-typeScript-snippets
+atom-bootstrap3
+atom-typescript
+file-icons
+minimap
+platformio-ide-terminal
+v-bootstrap4
 ```
