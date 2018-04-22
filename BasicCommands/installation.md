@@ -32,4 +32,11 @@ file-icons
 minimap
 platformio-ide-terminal
 v-bootstrap4
+autocomplete-js-import
+    + File relative path completion
+    + (Experimental) Fuzzy file matching
+    + ES6 style "Import"
+    - Commonjs "require"
+ng2-snippets
+autocomplete-paths
 ```
